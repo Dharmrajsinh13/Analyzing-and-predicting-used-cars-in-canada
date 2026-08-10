@@ -79,7 +79,7 @@ The project uses the **Used Cars Listings for US & Canada** dataset available th
 
 The dataset is **not included in this repository** because its ambiguous about licensing terms.
 
-To reproduce the analysis, obtain the dataset directly from its original source [here]('https://www.kaggle.com/datasets/rupeshraundal/marketcheck-automotive-data-us-canada') and place `used_cars_canada.csv` in the location expected by the notebook.
+To reproduce the analysis, obtain the dataset directly from its original source [here](https://www.kaggle.com/datasets/rupeshraundal/marketcheck-automotive-data-us-canada) and place `used_cars_canada.csv` in the location expected by the notebook.
 
 ## Reproducing the Analysis
 
